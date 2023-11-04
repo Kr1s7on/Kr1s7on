@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&pause=1000&color=F7F7F7&random=false&width=431&lines=Salut%2C+je+suis+Kriston.+%3A%5C%5C%5C%5C)](https://git.io/typing-svg)
 <!--
 **Kr1s7on/Kr1s7on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
