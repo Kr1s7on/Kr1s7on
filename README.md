@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&size=28&duration=3900&pause=100&color=86FF7A&multiline=true&random=false&width=600&height=100&lines=Hallo%2C+ich+bin+Kriston.;(j'essaye+d'apprendre+l'allemand+dans+Duolingo))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&weight=500&duration=3500&pause=200&color=82F783&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Kriston+%3A%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C)](https://git.io/typing-svg)
 <!--
 **Kr1s7on/Kr1s7on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
