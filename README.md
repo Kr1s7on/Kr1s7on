@@ -5,6 +5,7 @@
 - 👨🏻‍💻 I'm currently working on a sample website template that features photography.
 - 🌱 I’m currently learning:
 
-<img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-![](https://komarev.com/ghpvc/?username=kr1s7on&color=green)
+
+![](https://komarev.com/ghpvc/?username=kr1s7on&color=blueviolet)
