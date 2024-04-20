@@ -10,7 +10,8 @@ Apart from coding, I like to debate 🗣 and play basketball 🏀 regularly.
 I'm currently working on nothing.
 
 ### Socials
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="https://www.linkedin.com/in/kristonj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://sites.google.com/view/kriston-jomari/home"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1s7on&theme=gruvbox" />
