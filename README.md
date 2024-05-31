@@ -7,7 +7,7 @@
 Apart from coding, I like to debate 🗣 and play basketball 🏀 regularly.
 
 ### Update
-I'm currently working on nothing.
+I'm currently working on a prototype of a hotel website.
 
 ### Socials
 <a href="https://www.linkedin.com/in/kristonj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
