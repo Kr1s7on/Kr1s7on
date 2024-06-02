@@ -26,3 +26,15 @@ I'm currently working on a prototype of a hotel website.
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> 
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+```bash
+                       .|
+                       | |
+                       |'|            ._____
+               ___    |  |            |.   |' .---"|
+       _    .-'   '-. |  |     .--'|  ||   | _|    |
+    .-'|  _.|  |    ||   '-__  |   |  |    ||      |
+    |' | |.    |    ||       | |   |  |    ||      |
+ ___|  '-'     '    ""       '-'   '-.'    '`      |____
+jgs~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
