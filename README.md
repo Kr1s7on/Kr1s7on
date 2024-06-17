@@ -1,7 +1,6 @@
 <!-- **Kr1s7on/Kr1s7on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Typing SVG from DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&weight=500&size=36&duration=3300&pause=200&color=9EF776&random=false&width=700&lines=Hi%2C+I'm+Kriston!;Salut%2C+je+suis+Kriston!;Hallo%2C+ich+bin+Kriston!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&weight=350&size=36&duration=3300&pause=200&color=A082F7FF&random=false&width=700&lines=Hi%2C+I'm+Kriston!;Salut%2C+je+suis+Kriston!;Hallo%2C+ich+bin+Kriston!)](https://git.io/typing-svg)
 
 ### About Me
 Apart from coding, I like to debate 🗣 and play basketball 🏀 regularly.
