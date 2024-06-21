@@ -16,9 +16,6 @@ I'm currently working on a prototype of a hotel website.
 
 <!-- ![Kr1s7on's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr1s7on&show_icons=true&theme=gruvbox) -->
 
-
-
-
 ```ruby
                                                        _____
                                                      /'     `\
@@ -44,4 +41,3 @@ I'm currently working on a prototype of a hotel website.
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](#)
-
