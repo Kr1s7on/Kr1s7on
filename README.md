@@ -6,7 +6,7 @@
 Apart from doing Frontend, I like playing basketball ⛹🏻 and reading mystery novels 📖.
 
 ### Update
-I'm currently working on a prototype of a hotel website and a Python inventory system.
+I'm currently working on nothing :)
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristonj/)
