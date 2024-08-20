@@ -1,4 +1,4 @@
-## Hi I'm Kriston!
+Hi I'm Kriston!
 
 I am a first-year student from Nanyang Polytechnic studying Applied AI & Analytics.
 
