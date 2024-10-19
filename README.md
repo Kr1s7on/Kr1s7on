@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&weight=350&size=36&duration=3300&pause=200&color=A082F7FF&random=false&width=700&lines=Hi%2C+I'm+Kriston!;Salut%2C+je+suis+Kriston!;Hallo%2C+ich+bin+Kriston!)](https://git.io/typing-svg)
 
 ### About Me
-Apart from doing Frontend, I like playing basketball ⛹🏻 and reading mystery novels 📖.
+I prefer frontend web work.
 
 ### Update
 I'm currently working on nothing :)
