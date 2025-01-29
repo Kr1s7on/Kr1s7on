@@ -50,7 +50,7 @@ im currently working on nothing :)
 
 ### languages & tools
 
-```bash
+```ruby
 puolsky@puolsky:~$ cowsay "html, css, js, sql, python, bootstrap, popos, power_bi"
  ________________________________________
 / html, css, js, sql, python, bootstrap, \
