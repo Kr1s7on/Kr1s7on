@@ -14,7 +14,7 @@ im currently working on nothing :)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristonj/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kriston.netlify.app/)
-[![Steam](https://img.shields.io/badge/steam-0079BD?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199004088449)
+[![Steam](https://img.shields.io/badge/steam-0079BD?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/puolsky/)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1s7on&theme=gruvbox" /> -->
 
