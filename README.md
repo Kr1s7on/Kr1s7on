@@ -51,11 +51,12 @@ im currently working on nothing :)
 ### languages & tools
 
 ```ruby
-puolsky@puolsky:~$ cowsay "html, css, js, sql, python, bootstrap, popos, power_bi"
- ________________________________________
-/ html, css, js, sql, python, bootstrap, \
-\ popos, power_bi                        /
- ----------------------------------------
+puolsky@puolsky:~$ cowsay "python, js, sql, html5, css, bootstrap, mui, zsh, power_bi, tableau, knime, sas_viya"
+ _________________________________________
+/ python, js, sql, html5, css, bootstrap, \
+| mui, zsh, power_bi, tableau, knime,     |
+\ sas_viya                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
