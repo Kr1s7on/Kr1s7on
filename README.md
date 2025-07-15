@@ -4,7 +4,7 @@
 
 ### about me
 
-frontend is so cool wow..
+tailwind is so cool
 
 ### update
 
