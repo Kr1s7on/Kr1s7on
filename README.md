@@ -8,7 +8,7 @@ frontend is so cool wow..
 
 ### update
 
-im currently working on a webapp + netw intrusion detection sys
+im currently working on a web application
 
 ### socials
 
