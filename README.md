@@ -12,7 +12,7 @@
    4   │ tailwind is so cool!!
    5   │ 
    6   │ ## update
-   7   │ im currently working on a flask app + analytics projects
+   7   │ im currently working on nothing
 ───────┴────────────────────────────────────────────────────────────────────────
 
 ╭─ ☃ ⌂ ~ ──────────────────────────────────────────── ✔ puolsky ⌂ ─╮
