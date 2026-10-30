@@ -6,15 +6,15 @@
 ───────┬────────────────────────────────────────────────────────────────────────
        │ File: about_me.md
 ───────┼────────────────────────────────────────────────────────────────────────
-   1   │ # hello im kriston
+   1   │ # Hello im Kriston
    2   │ 
-   3   │ ## about me
-   4   │ tailwind is so cool!!
+   3   │ ## About me
+   4   │ Currently interning for <a href="https://www.mas.gov.sg/">MAS</a>
    5   │ 
-   6   │ ## update
-   7   │ on slay the spire 2 🧙🏻‍♂️
+   6   │ ## Updates
+   7   │ Recently updated <a href="https://kr1s7on-beyond-the-arc-app-g7kvhn.streamlit.app/">beyond-the-arc</a>, just UI changes - i added images 👍🏼
 ───────┴────────────────────────────────────────────────────────────────────────
 
-╭─ ☃ ⌂ ~ ──────────────────────────────────────────── ✔ puolsky ⌂ ─╮
-╰─ brew upgrade
+╭─ ☃ ⌂ ~ ──────────────────────────────────────────── ✔ kr1s7on ⌂ ─╮
+╰─ ...
 </pre>
