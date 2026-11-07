@@ -12,7 +12,7 @@
    4   │ Currently interning for <a href="https://www.mas.gov.sg/">MAS</a>
    5   │ 
    6   │ ## Updates
-   7   │ Recently updated <a href="https://kr1s7on-beyond-the-arc-app-g7kvhn.streamlit.app/">beyond-the-arc</a>, just UI changes - i added images 👍🏼
+   7   │ Recently updated <a href="https://kr1s7on-beyond-the-arc-app-g7kvhn.streamlit.app/">beyond-the-arc</a>, mostly UX changes, also tried to redo the modelling
 ───────┴────────────────────────────────────────────────────────────────────────
 
 ╭─ ☃ ⌂ ~ ──────────────────────────────────────────── ✔ kr1s7on ⌂ ─╮
